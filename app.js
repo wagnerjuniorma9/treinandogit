@@ -10,10 +10,6 @@ dfg dfgfd
 
 d fgdfgdfg
 
-<<<<<<< HEAD
-novalinha
-=======
 
 
 nova
->>>>>>> nova
