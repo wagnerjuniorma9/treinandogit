@@ -27,6 +27,7 @@ fgdfgdfgfd
 dfgdfgdfgdffdgdfgdfgdfdfgdf
 dfgdfgdfgdf
 dfgdfgdfgdfgdf a wagner de menezes fontes juúniorgit status
+
 dsfdfsdfdsf
 kkkkkkkkk
 jjjjj
@@ -34,3 +35,13 @@ ghgghgh
 ghghgghgh
 
 ghghghghgit
+
+dsfdsf
+sdfdsfsdfsdfsdf
+sdfdsfdsdsfsdf
+sdfdsfsdfsdfsdf
+kkkkkkkk
+
+ddddddgit add *
+git commit -m 'develdlfd'
+
