@@ -6,7 +6,7 @@ const esperando = async function () {
         }, 3000)
     })
 }
-
+zezo
 const run = async () => {
     return await esperando().then(result=>result).catch(err=>err)
 }
