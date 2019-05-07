@@ -1,0 +1,148 @@
+{
+    "codigo": "00000000-0000-0000-0000-000000000000",
+    "codigoparametrosprodutolimite": 0,
+    "codigoparametrosprodutooperacao": 0,
+    "codigoformaliberacao": 0,
+    "codigocarteira": "00000000-0000-0000-0000-000000000000",
+    "codigomodelocontrato": 0,
+    "descricao": "string",
+    "descricaoresumida": "string",
+    "datainicio": "2019-03-18T19:34:45.515Z",
+    "datafim": "2019-03-18T19:34:45.515Z",
+    "percentualmaximorecebiveis": 0,
+    "percentualconcentracaosacado": 0,
+    "valorminimocontratorecebiveis": 0,
+    "valormaximocontratorecebiveis": 0,
+    "prazominimorecebivel": 0,
+    "prazomaximorecebivel": 0,
+    "validadeproposta": 0,
+    "ativo": true,
+    "riscocliente": "string",
+    "numeromodalidadesubmodalidade": "string",
+    "codigotipocliente": 0,
+    "codigolinhacredito": "string",
+    "descricaolinhacredito": "string",
+    "taxa": 0,
+    "descontopublicoalvo": 0,
+    "descontosegmentacao": 0,
+    "taxasugerida": 0,
+    "iofnormal": 0,
+    "iofadicional": 0,
+    "carteira": {
+        "codigo": "00000000-0000-0000-0000-000000000000",
+        "descricao": "string",
+        "ativo": true
+    },
+    "formaliberacao": {
+        "codigo": 0,
+        "descricao": "string",
+        "ativo": true
+    },
+    
+    "parametrosprodutolimite": {
+        "codigo": 0,
+        "valorminimocontratado": 0,
+        "valormaximocontratado": 0,
+        "prazominimo": 0,
+        "prazomaximo": 0,
+        "diaspropostanaofinalizada": 0,
+        "prazospossiveis": [
+            0
+        ]
+    },
+
+    "parametrosprodutooperacao": {
+        "codigo": 0,
+        "numeromaximooperacaoativa": 0,
+        "valorminimocontratado": 0,
+        "valormaximocontratado": 0,
+        "diaspropostanaofinalizada": 0,
+        "quantidademinimarecebivel": 0,
+        "quantidademaximarecebivel": 0
+    },
+
+   // Outra GUia
+    "segmentacoesproduto": [
+        {
+            "codigo": "00000000-0000-0000-0000-000000000000",
+            "codigoproduto": "00000000-0000-0000-0000-000000000000",
+            "codigosegmentacaosic": 0,
+            "descricao": "string",
+            "tipo": "string",
+            "percentualdescontotaxa": 0,
+            "percentualdescontotarifa": 0,
+            "ativo": true
+        }
+    ],
+    // Outra GUia
+    "publicosalvo": [
+        {
+            "codigo": "00000000-0000-0000-0000-000000000000",
+            "codigoproduto": "00000000-0000-0000-0000-000000000000",
+            "numeroenquadramentocontabil": 0,
+            "percentualdesconto": 0,
+            "percentualtaxajurossugerida": 0,
+            "ativo": true,
+            "codigotipocliente": 0,
+            "tipocliente": "string",
+            "tipopessoa": "string",
+            "enquandramentocontabiloperacao": "string",
+            "enquandramentocontabilclassificacaooperacao": "string"
+        }
+    ],
+    // Outra GUia
+    "restricoesproduto": [
+        {
+            "codigo": 0,
+            "codigoproduto": "00000000-0000-0000-0000-000000000000",
+            "idrestricaosic": 0,
+            "descricaorestricaosic": "string",
+            "ativo": true
+        }
+    ],
+    // Outra GUia
+    "taxas": [
+        {
+            "codigo": 0,
+            "codigoproduto": "00000000-0000-0000-0000-000000000000",
+            "codigotipotaxa": "00000000-0000-0000-0000-000000000000",
+            "percentagemtaxa": 0,
+            "percentualnegociavelminimo": 0,
+            "percentualnegociavelmaximo": 0,
+            "statusassociartaxa": true,
+            "tipotaxa": {
+                "codigo": "00000000-0000-0000-0000-000000000000",
+                "descricao": "string",
+                "ativo": true,
+                "incidencia": 0,
+                "datacadastro": "2019-03-18T19:34:45.516Z",
+                "tiposincidencia": [
+                    {}
+                ]
+            },
+            "rangestaxas": [
+                {
+                    "id": 0,
+                    "idtaxa": 0,
+                    "numeroparcelainicial": 0,
+                    "numeroparcelafinal": 0,
+                    "percentualassociartaxa": 0
+                }
+            ]
+        }
+    ],
+    "metodoscalculo": [
+        {
+            "codigo": 0,
+            "descricao": "string",
+            "ativo": true
+        }
+    ],
+    "tiposproposta": [
+        {
+            "codigo": 0,
+            "descricao": "string",
+            "ativo": true
+        }
+    ]
+}
